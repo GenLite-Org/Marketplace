@@ -1,4 +1,4 @@
-# GenLite - Marketplace [![Check Build Status](https://github.com/GenLite-Org/Marketplace/actions/workflows/check_buld_status.yml/badge.svg?branch=main)](https://github.com/GenLite-Org/Marketplace/actions/workflows/check_buld_status.yml)
+# GenLite - Marketplace [![Check Build Status](https://github.com/GenLite-Org/Marketplace/actions/workflows/check_buld_status.yml/badge.svg)](https://github.com/GenLite-Org/Marketplace/actions/workflows/check_buld_status.yml)
 In the project directory, you can run:
 
 ### `npm start`
